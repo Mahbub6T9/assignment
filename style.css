@@ -183,9 +183,7 @@ section.see-it {
     color: white;
     padding: 12px 36px;
     border-radius: 12px;
-    
-   
-
+    width: 195px;
     
 }
 .rtf{
@@ -211,4 +209,33 @@ section.see-it {
     margin-top: 40px;
     
     
+}
+.footer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 600px;
+
+}
+.stfirst{
+    text-align: start;
+}
+.let{
+    font-size: 97px;
+    text-align: start;
+    width: 550px;
+}
+.wc-big{
+    
+    width: fit-content;
+    border-radius: 20px;
+    margin-top: 20px;
+    
+}
+.inpt{
+    border: ;
+    margin-top: 100px;
 }
