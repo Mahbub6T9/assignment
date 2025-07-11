@@ -239,3 +239,31 @@ section.see-it {
     border: ;
     margin-top: 100px;
 }
+.box{
+    width: 531px;
+    display: inline-block;
+    text-align: center;
+    color: #666;
+}
+.end-part{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    justify-content: center;
+}
+.end-part ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+.nav-bar{
+    margin-left: 10px;
+    
+}
+li a{
+    color: #666;
+}
+
+  
